@@ -25,7 +25,8 @@ int main( )
 }
 ```
 
-### Generated pseudo-code
+### Pseudo-code
+Below is the produced pseudo-code from the main.cpp file.
 ```cpp
 int __fastcall main(int argc, const char **argv, const char **envp)
 {
